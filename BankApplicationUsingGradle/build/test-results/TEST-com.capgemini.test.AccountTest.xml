@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.capgemini.test.AccountTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-06-21T09:26:02" hostname="DIN51002914" time="0.234">
+  <properties/>
+  <testcase name="whenTheAccountNumberIsInvalidForWithdrawAmountShouldThrowException" classname="com.capgemini.test.AccountTest" time="0.234"/>
+  <testcase name="whenTheValidInfoIsPassedAmountShouldBeDepositedSuccessfully" classname="com.capgemini.test.AccountTest" time="0.0"/>
+  <testcase name="whenTheAccountInfoIsValidForWithdrawAmountThenAmountShouldBeWithdrawSuccessfully" classname="com.capgemini.test.AccountTest" time="0.0"/>
+  <testcase name="whenTheAmountIsLessThan500ItShouldThrowException" classname="com.capgemini.test.AccountTest" time="0.0"/>
+  <testcase name="whenTheAccountNumberIsInvalidForDepositAmountShouldThrowException" classname="com.capgemini.test.AccountTest" time="0.0"/>
+  <testcase name="whenTheAmountIsInsufficientForWithdrawAmountShouldThrowException" classname="com.capgemini.test.AccountTest" time="0.0"/>
+  <testcase name="whenTheValidInfoIsPassedAccountObjectShouldBeCreatedSuccessfully" classname="com.capgemini.test.AccountTest" time="0.0"/>
+  <system-out><![CDATA[Total amount in 103 account 11000
+Total amount in account 3000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
